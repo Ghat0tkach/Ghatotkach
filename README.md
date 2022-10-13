@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"  height="100" width="4000" src="https://media.tenor.com/A0E-YGs4v-YAAAAi/socheers-the-socheers.gif">
+<img align="center" alt="Coding"  height="2000" width="4000" src="https://media.tenor.com/A0E-YGs4v-YAAAAi/socheers-the-socheers.gif">
 
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">A enthusiast in the open source and a curious fellow for the technology of blockchain</h3>
